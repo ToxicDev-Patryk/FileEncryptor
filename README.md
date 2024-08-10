@@ -2,7 +2,7 @@
 Simple File Encryptor
 
 ## Features
-- Modular Design: The encryptor is designed using an abstract base class (Encryptor) and multiple derived classes (SimpleEncryptor, CaesarEncryptor, and ReverseEncryptor) that implement different encryption algorithms. This modular approach allows for easy addition of new encryption methods.CopyCopyCopyCopy
+- Modular Design: The encryptor is designed using an abstract base class (Encryptor) and multiple derived classes (SimpleEncryptor, CaesarEncryptor, and ReverseEncryptor) that implement different encryption algorithms. This modular approach allows for easy addition of new encryption methods.
 
 - Multiple Encryption Algorithms:
 
