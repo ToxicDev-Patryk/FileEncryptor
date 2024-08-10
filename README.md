@@ -1,6 +1,11 @@
 # FileEncryptor
 Simple File Encryptor
 
+## Usage
+
+- file.exe encrypt -in file.txt [--out en_file.txt]
+- file.exe decrypt -in en_file.txt [--out de_file.txt]
+
 ## Features
 - Modular Design: The encryptor is designed using an abstract base class (Encryptor) and multiple derived classes (SimpleEncryptor, CaesarEncryptor, and ReverseEncryptor) that implement different encryption algorithms. This modular approach allows for easy addition of new encryption methods.
 
